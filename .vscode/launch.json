@@ -8,7 +8,7 @@
         "type": "chrome",
         "request": "launch",
         "name": "Launch Chrome",
-        "url": "http://localhost:4200",
+        "url": "https://hardcore-jang-75f419.netlify.app/",
         "webRoot": "${workspaceFolder}"
     },
         {
